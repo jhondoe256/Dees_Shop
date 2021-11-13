@@ -1,0 +1,4 @@
+1. Create -> P.O.C.O s   Plain Old C# objects
+2. Create a repository for each P.O.C.O.
+3. Create a UI (console app)
+4. Test Repository methods
